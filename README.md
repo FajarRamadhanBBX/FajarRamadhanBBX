@@ -19,7 +19,7 @@ Committed to developing products that are useful for users and profitable from a
     <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 </div>
 
-## Connect with me!
+## 🔗 Connect with me!
 <div align="center">
     <a href="https://www.linkedin.com/in/fajramdhan/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -36,7 +36,7 @@ Committed to developing products that are useful for users and profitable from a
     </a>
 </div>
 
-## My Activity
+## 🚀 My Activity
  <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FajarRamadhanBBX&theme=github_dark" alt="Zane's GitHub Stats"/></td>
