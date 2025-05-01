@@ -1,8 +1,8 @@
 # Hi, I'm Fajar Ramadhan! 👋 
 
 ## 🦆 About Me
-Active Informatics student at Universitas Pembangunan Nasional Veteran Jakarta with a strong interest in Data
-Science. Proficient in data analysis, with hands-on experience in designing, implementing, and optimizing machine
+Active Informatics student at Universitas Pembangunan Nasional Veteran Jakarta with a strong interest in AI, Data
+Science, and Product. Proficient in data analysis, with hands-on experience in designing, implementing, and optimizing machine
 learning and deep learning models. Highly motivated to learn and open to feedback for continuous improvement.
 Committed to developing products that are useful for users and profitable from a business perspective.
 
