@@ -1,10 +1,8 @@
 # Hi, I'm Fajar Ramadhan! 👋 
 
 ## 🦆 About Me
-Active Informatics student at Universitas Pembangunan Nasional Veteran Jakarta with a strong interest in AI, Data
-Science, and Product. Proficient in data analysis, with hands-on experience in designing, implementing, and optimizing machine
-learning and deep learning models. Highly motivated to learn and open to feedback for continuous improvement.
-Committed to developing products that are useful for users and profitable from a business perspective.
+Active Informatics student at Universitas Pembangunan Nasional Veteran Jakarta with a strong interest in Cloud, and AI.
+Highly motivated to learn and open to feedback for continuous improvement.
 
 ## 🛠 Tech Stack 🛠
 <div align="center">
@@ -14,9 +12,6 @@ Committed to developing products that are useful for users and profitable from a
     <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow" />
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-    <br>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
 </div>
 
 ## 🔗 Connect with me!
