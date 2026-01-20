@@ -1,18 +1,8 @@
 # Hi, I'm Fajar Ramadhan! 👋 
 
 ## 🦆 About Me
-Active Informatics student at Universitas Pembangunan Nasional Veteran Jakarta with a strong interest in Cloud, and AI.
+Active Informatics student at Universitas Pembangunan Nasional Veteran Jakarta with interest in Cloud, and AI.
 Highly motivated to learn and open to feedback for continuous improvement.
-
-## 🛠 Tech Stack 🛠
-<div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Sklearn" />
-    <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow" />
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</div>
 
 ## 🔗 Connect with me!
 <div align="center">
